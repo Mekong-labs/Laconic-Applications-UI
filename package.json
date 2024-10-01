@@ -1,8 +1,8 @@
 {
-  "name": "@silent/laconic-apps-ui",
+  "name": "@Mekong-labs/laconic-apps-ui",
   "version": "0.1.0",
   "private": true,
-  "repository": "https://github.com/silentnoname/Laconic-Applications-UI",
+  "repository": "https://github.com/Mekong-labs/Laconic-Applications-UI.git",
 
   "scripts": {
     "dev": "next dev",
